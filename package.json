@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cleop/web-rtc/issues"
   },
-  "homepage": "https://github.com/Cleop/web-rtc#readme"
+  "homepage": "https://github.com/Cleop/web-rtc#readme",
+  "dependencies": {
+    "webrtc-adapter": "^3.1.0"
+  }
 }
